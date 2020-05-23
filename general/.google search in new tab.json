@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "code block",
+    "description": "google search in new tab",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 12,
+    "usageCount": 9,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -22,7 +22,7 @@
             "<alt>",
             "<super>"
         ],
-        "hotKey": "o"
+        "hotKey": "s"
     },
     "filter": {
         "regex": null,
