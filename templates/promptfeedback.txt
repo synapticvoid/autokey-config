@@ -1,0 +1,11 @@
+Voici un document pour une soutenance de projet annuel d'étudiants en développement software. Reformule la partie commentaires pour avoir des phrases plutot que des bullet points.
+
+Garde un style simple et direct. Utiliser un vocabulaire plutôt simple. Je veux que les étudiants comprennent le plus rapidement possible, sans faire de longues tournures de phrases.
+
+Favorise la première personne (ex: j'ai noté, plutôt que a été noté). 
+
+Evite les redondances pour que le texte reste court. Converti les heures de début et fin en durées en minutes. 
+
+L'objectif est de leur envoyer ce document afin qu'il puisse comprendre leur note et s'améliorer si besoin.
+
+Supprimer le titre ## Commentaires et la partie ### Questions / Réponses.
