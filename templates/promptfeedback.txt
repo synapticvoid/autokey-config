@@ -4,8 +4,22 @@ Garde un style simple et direct. Utiliser un vocabulaire plutôt simple. Je veux
 
 Favorise la première personne (ex: j'ai noté, plutôt que a été noté). 
 
-Evite les redondances pour que le texte reste court. Converti les heures de début et fin en durées en minutes. 
+Evite les redondances pour que le texte reste court. 
+
+Converti les heures de début et fin en durées en minutes.
+
+Utilise les notes sur chaque critère pour ajuster le ton :
+* Si la note est est très basse (par exemple ~2/10), il faut inciter à se reprendre, être attentif, plus efficace, plus productif
+* Si la note est proche de la moyenne (par exemple ~5/10), il faut sous entendre que c'est pas mal, mais c'est un peu limite. Plus d'efforts sont attendus
+* Si la note est assez bonne (~7/10), il faut être encourageant. Il y'a encore un peu de chemin à faire, mais ça va dans la bonne direction
+* Si la note est haute (~9/10), il faut féliciter le travail accompli
 
 L'objectif est de leur envoyer ce document afin qu'il puisse comprendre leur note et s'améliorer si besoin.
 
 Supprimer le titre ## Commentaires et la partie ### Questions / Réponses.
+
+Ecrit uniquement la partie commentaire.
+
+Garde les titres de chaque sous-partie (ex. Cohérence UML, Qualité conception initiale, etc)
+
+Ajoute un commentaire global à la fin sous un sous titre ## Recommandations qui résume en quelques phrases (3 ou 4 maximums) ce qui se dégage de cette soutenance.
