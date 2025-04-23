@@ -1,4 +1,5 @@
 import datetime
+import time
 
 # Dictionary of French months
 french_months = {
@@ -26,6 +27,7 @@ keyboard.send_keys(f"Fiche de paie {month} {year}")
 
 # Move focus to email body 
 keyboard.send_key("<tab>")
+time.sleep(0.2)
 
 # Email body template
 message = f"""Bonjour Magalie,
